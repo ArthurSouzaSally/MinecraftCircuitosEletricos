@@ -1,0 +1,11 @@
+
+"""
+Oi eu sou uma quest, quando 1 e 2 forem positivos 12 precisa ser negativo
+"""
+POSICAO: 1
+"""
+CENARIO: 5x5
+"""
+>C:AND: 12
+"""
+>R: 1:1,2:1;11:0
