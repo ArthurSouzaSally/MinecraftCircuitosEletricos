@@ -3,4 +3,4 @@ Eu criei um servidor de Minecraft para o Multiplayer, no qual jogadores podem cr
 Para testar o mod basta seguir os passos em ordem:<br/>
 - Iniciar o Servidor de Minecraft da pasta 'server' como qualquer servidor de Minecraft normal.<br/>
 - Iniciar o "mod.py" com o IP do Servidor e aproveitar!<br/><br/>
-Tem alguns bugs que evidenciam a falta de perfeitos, mas ainda sim dá para fazer coisas mais malucas por que o design que eu adotei para fazer a arquitetura permitem isso, é só tentar fazer um flip flop e você consegue ver que roda sem nenhuma dificuldade.
+Tem alguns bugs que evidenciam a falta de perfeição, mas ainda sim dá para fazer coisas mais malucas por que o design que eu adotei para fazer a arquitetura permitem isso, é só tentar fazer um flip flop e você consegue ver que roda sem nenhuma dificuldade.
