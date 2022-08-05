@@ -1,6 +1,6 @@
 # MinecraftCircuitosEletricos
 Eu criei um servidor de Minecraft para o Multiplayer, no qual jogadores podem criar circuitos eletricos usando portas lógicas AND, OR, NOT, NAND, NOR, XOR.<br/><br/>
-<img src="circuitos.png"/>
+<img src="circuitos.png"/><br/>
 O objetivo inicial era que fosse possivel passar tarefas para alunos dentro de uma sala de aula para como criar circuitos, é possivel dar comandos de texto rodando o código, só é preciso digitar "help" dentro do servidor para ver comandos no jogo.<br/><br/>
 <img src="comandos.png"/>
 Para testar o mod basta seguir os passos em ordem:<br/>
